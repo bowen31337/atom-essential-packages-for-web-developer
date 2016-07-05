@@ -10,7 +10,6 @@ git-plus
 grunt-runner
 javascript-snippets
 jshint
-language-freemarker
 linter
 linter-csslint
 minimap
